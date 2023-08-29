@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Step_cs\bin\Debug\net6.0\Step_cs.exe
+C:\Users\user\source\repos\Step_cs\bin\Debug\net6.0\Step_cs.deps.json
+C:\Users\user\source\repos\Step_cs\bin\Debug\net6.0\Step_cs.runtimeconfig.json
+C:\Users\user\source\repos\Step_cs\bin\Debug\net6.0\Step_cs.dll
+C:\Users\user\source\repos\Step_cs\bin\Debug\net6.0\Step_cs.pdb
+C:\Users\user\source\repos\Step_cs\obj\Debug\net6.0\Step_cs.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Step_cs\obj\Debug\net6.0\Step_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Step_cs\obj\Debug\net6.0\Step_cs.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Step_cs\obj\Debug\net6.0\Step_cs.AssemblyInfo.cs
+C:\Users\user\source\repos\Step_cs\obj\Debug\net6.0\Step_cs.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Step_cs\obj\Debug\net6.0\Step_cs.dll
+C:\Users\user\source\repos\Step_cs\obj\Debug\net6.0\refint\Step_cs.dll
+C:\Users\user\source\repos\Step_cs\obj\Debug\net6.0\Step_cs.pdb
+C:\Users\user\source\repos\Step_cs\obj\Debug\net6.0\Step_cs.genruntimeconfig.cache
+C:\Users\user\source\repos\Step_cs\obj\Debug\net6.0\ref\Step_cs.dll
